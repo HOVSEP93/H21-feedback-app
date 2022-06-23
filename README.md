@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
-DEMO: https://hovsep93.github.io/H21-feedback-app/
 
 Buy me a burger: https://www.buymeacoffee.com/Hovsep93
 
